@@ -1,1 +1,12 @@
-hello world
+hello world . 
+I am loving this clas..
+
+VI Sarab.txt ( is a file editor and creator)
+FOr inserting the text i used the 'i' command.
+
+after i command press 'esc'
+
+After this for saving the file ':wqi'
+
+THe above command will save the file. 
+
